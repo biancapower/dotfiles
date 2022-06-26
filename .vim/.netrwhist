@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/power/code/generic-marketplace/app/views/listings'
+let g:netrw_dirhist_6='/Users/power/code/generic-marketplace/app/views'
+let g:netrw_dirhist_5='/Users/power/code/generic-marketplace/app'
+let g:netrw_dirhist_4='/Users/power/code/generic-marketplace'
+let g:netrw_dirhist_3='/Users/power/code/React-State-Class-Lifecycle-Starter/src'
+let g:netrw_dirhist_2='/Users/power/code/React-State-Class-Lifecycle-Starter'
+let g:netrw_dirhist_1='/Users/power/code/rails-6/generic-marketplace/app/models'
+let g:netrw_dirhist_0='/Users/power/code/rails-6/generic-marketplace/app'
+let g:netrw_dirhist_9='/Users/power/code/rails-6/generic-marketplace'
+let g:netrw_dirhist_8='/Users/power/code/rails-6/generic-marketplace/app/controllers'
