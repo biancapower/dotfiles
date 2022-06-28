@@ -21,6 +21,10 @@ Plug 'tpope/vim-rails'
 Plug '/usr/local/opt/fzf'
 Plug 'junegunn/fzf.vim'
 
+Plug 'wakatime/vim-wakatime'
+
+Plug 'ycm-core/YouCompleteMe', { 'do': './install.py' }
+
 call plug#end()
 
 colorscheme mycodedark
