@@ -1,0 +1,8 @@
+# Folder config
+.DS_Store
+
+# Vim swap files
+*.swp
+
+# asdf versioning files
+.tool-versions
